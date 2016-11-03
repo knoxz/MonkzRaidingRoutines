@@ -1,0 +1,18 @@
+Item: Tutorial Code (Foundation)
+Original Author: Dagradt
+Date Obtained: 15-Jan-2015
+Obtained from: https://www.thebuddyforum.com/honorbuddy-forum/community-developer-forum/166383-guide-dagradts-guide-combat-routine-development.html
+License: X
+	
+Item: ItemUse Function
+Original Author: Apoc
+Date Obtained: 27-Jan-2015
+Obtained from: Developer Chat
+License: X
+Not used for now.
+
+Item: Product Icon Image
+Original Author: Monkz
+Date Obtained: 2015
+Obtained from: Selfmade
+License: Copyright Holder.
